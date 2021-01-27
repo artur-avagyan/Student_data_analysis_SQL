@@ -246,7 +246,7 @@ CREATE TABLE IF NOT EXISTS student_year (
     student_year INT,
     student_score NUMERIC
 );
-INSERT INTO student_rate VALUES
+INSERT INTO student_year VALUES
     (1,3,12.33),
     (2,2,17),
     (3,2,19),
